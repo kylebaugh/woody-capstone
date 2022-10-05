@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Japlan!</title>
+    <link rel="stylesheet" href="index.css" />
+    <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Nunito">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="./index.html">Home</a>
+        <a href="./culture.html">Cultural Cares</a>
+      </nav>
+      <h1>Japlan!</h1>
+      <span>Get ideas for a trip to 日本</span>
+    </header>
+    <main>
+        <div id="flag">
+      <form id="add-location">
+        <input 
+            type='text'
+            id="place"
+            placeholder="Where would you like to go?"/>
+        <input 
+            type='text'
+            id="description"
+            placeholder="What could you do there?"/>
+        <input 
+            type='text'
+            id="time"
+            placeholder="For how long?(days)"/>
+              <input 
+                  type='text'
+                  id="img"
+                  placeholder='Paste an image URL'/>
+                  <button id="add-location-btn">Add location!</button>
+                </div>
+          </form>
+          
+          <div><button id="see-suggestions">Get some ideas!</button></div>
+          <section id = "locations-container"></section>
+        </main>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="index.js"></script>
+  </body>
+  <footer><div class="ocean" id="footer">
+    <div class="wave"></div>
+    <div class="wave"></div>
+    <div class="wave"></div>
+  </div></footer>
+</html>

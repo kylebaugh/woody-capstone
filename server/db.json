@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "place": "Okinawa",
+      "description": "Naha City, beautiful beaches and diving",
+      "time": 1,
+      "rating": 1,
+      "imageURL" : "https://a.cdn-hotels.com/gdcs/production127/d88/a5e3756e-e17b-4f77-a7e7-a938dec22e8d.jpg?impolicy=fcrop&w=800&h=533&q=medium"
+    },
+    {
+      "id": 2,
+      "place": "Nagasaki",
+      "time": 1,
+      "description": "Lanturn Festival, International trade and the Atomic Bomb Museum",
+      "rating": 1,
+      "imageURL" : "https://top.his-usa.com/destination-japan/up_img/cke/imgs/2016713/shutterstock_290048120.jpg"
+    },
+    {
+      "id": 3,
+      "place": "Osaka",
+      "description": "Modern port city, Kabuki Theater, Osaka Aquarium, Museums, Osaka Castle",
+      "time": 1,
+      "rating": 1,
+      "imageURL" : "https://sandinmysuitcase.com/wp-content/uploads/2020/11/Japan-Osaka.jpg.webp"
+    },
+    {
+      "id": 4,
+      "place": "Hokkaido",
+      "description": "Mt. Yotei, skiing, & hot springs and monkeys",
+      "time": 1,
+      "rating": 1,
+      "imageURL" : "https://us.jnto.go.jp/hokkaido/imgs/page5.jpg"
+    },
+    {
+      "id": 5,
+      "place": "Tokyo",
+      "description": "Nightlife, Meiji Shrine, The Imperial Palace & Museums",
+      "time": 1,
+      "rating": 1,
+      "imageURL" : "https://images.unsplash.com/photo-1542051841857-5f90071e7989?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "id": 6,
+      "place": "Kyoto",
+      "description": "Temples, shrines, geisha & Nijo Castle",
+      "time": 1,
+      "rating": 1,
+      "imageURL" : "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF022X31oqGZuNLhpxm9yjdhtpwh042RVYrKJ2AFVjSAVL-Rx4BnSG7rMh5PHw1KRO6xEa8TtRSSoe26hWmKP4yA"
+    },
+    {
+      "id": 7,
+      "place": "Sapporo",
+      "description": "Beer, sking and the Odori Park festivals",
+      "time": 1,
+      "rating": 1,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZLMnLpT4lMjjU5DN4kfhkGSoTXLwVtr4Ozhv-8p50RI8dwwfl84Z4FmoCDHbNt53wc-vXEuiCkDQk3OWW3jnUAw"
+    },
+    {
+      "id": 8,
+      "place": "Hiroshima",
+      "description": "Peace Park Memorial & Shukkei-en Garden",
+      "time": 1,
+      "rating": 1,
+      "imageURL" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQw5rti_WqfY2OUPPQiVKc1LaI17H_8FyfGdsQUp19jLhm09CtoH19xFYt-31kSlZFk0cY7dgxTvXjPH2hCNdH9Yw"
+    },
+    {
+      "id": 9,
+      "place": "Mount Fuji",
+      "description": "The iconic mountain in the center of Japan",
+      "time": 1,
+      "rating": 1,
+      "imageURL" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsA3aIuiXNQrhJO6G6B4YaQt0m8_XPM_HgZ64C6fQqakBOkVYhwq9Sn8AtsJ4ROZcRAEfS3YcD22lGQem4SYKyFg"
+    },
+    {
+      "id": 10,
+      "place": "Kinkaku-ji",
+      "description": "A stunning and isolated Golden Temple",
+      "time": 1,
+      "rating": 1,
+      "imageURL" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4PrmLrdYPvDaXClzXu2BErfm2b-0tyMgOnOIrFUAu0vPQ-lMn_6cHtMpKWWcb3kv6OHhNKpaf-zo-ioJ8o0rzBQ"
+    },
+    {
+      "id": 11,
+      "place": "Himeji Castle",
+      "description": "Landmark 17th-century white castle",
+      "time": 1,
+      "rating": 1,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHve5EQcY1RdKrp5KZ1AW7tQnRPEG10HlE7aEzUZRgeoV70i9k3QDlmFFADiLVEIn1Dbp6MDj40HBadIWNWHtfA"
+    },
+    {
+      "id": 12,
+      "place": "Fushimi Inari Taisha",
+      "description": "Shinto shrine with famous orange gates",
+      "time": 1,
+      "rating": 1,
+      "imageURL" : "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRpIXXec62c3k4z-5vr3ofSxe95lZH_6rRNii7VoBD78CkvkoShjWBvOsdoi-1ZPyeN_SYJoJbHelwcIVrRmUx1g"
+    }
+  ]
