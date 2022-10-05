@@ -33,5 +33,5 @@ app.post("/api/locations", createLocation);
 app.put("/api/locations/:id", updateLocationTime);
 
 
-const port = process.PORT || 4000;
+const port = process.env.PORT || 4000;
 app.listen(port, () => console.log(`Checking in at port ${port}`));
